@@ -1,4 +1,4 @@
-# Simple Project tinkering with AWS Lambdas, API Gateway and S3
+# Simple Project tinkering with AWS Lambdas, Cognito, API Gateway and S3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
